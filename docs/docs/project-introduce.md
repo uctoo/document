@@ -51,6 +51,10 @@
       |-- event
       |-- exceptions
       |-- traits
+      |-- facade
+      |-- generate
+      |-- library
+      |-- middlewares
       |-- validates
       |-- CatchAdmin.php
       |-- CatchForm.php
@@ -66,7 +70,7 @@
 - `command` 目录存在 console 命令
 - `event` 目录存在事件
 - `exceptions` 目录存放自定义异常类
-- `exceptions` 目录存放自定义 facade 门面
+- `facade` 目录存放自定义 facade 门面
 - `generate` 目录存放文件生成功能
 - `library` 目录存放插件
   - client Http 客户端
